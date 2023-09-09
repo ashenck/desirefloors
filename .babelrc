@@ -1,0 +1,5 @@
+{
+  "babelrc": false,
+  "cacheDirectory": "undefined",
+  "presets": ["@nuxt/babel-preset-app"]
+}

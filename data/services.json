@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Staircase",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/v1626544318/desirefloors/services/service10-progressive.jpg",
+    "link": "/services/staircase",
+    "color_css": "bg-yellow1"
+  },
+  {
+    "title": "Laminated Wooden",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1622055495/desirefloors/services/service1-progressive2.jpg",
+    "link": "/services/laminated-wooden-flooring",
+    "color_css": "bg-yellow1"
+  },
+  {
+    "title": "Luxury Vinyl (SPC)",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service2-progressive.jpg",
+    "link": "/services/luxury-vinyl-spc-flooring",
+    "color_css": "bg-green1"
+  },
+  {
+    "title": "Luxury Vinyl Tile (LVT)",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service3-progressive.jpg",
+    "link": "/services/luxury-vinyl-tile-flooring-lvt",
+    "color_css": "bg-red1"
+  },
+  {
+    "title": "Bamboo",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service4-progressive.jpg",
+    "link": "/services/bamboo-flooring",
+    "color_css": "bg-blue1"
+  },
+  {
+    "title": "WPC Outdoor Decking",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service5-progressive.jpg",
+    "link": "/services/wpc-outdoor-decking",
+    "color_css": "bg-purple1"
+  },
+  {
+    "title": "Pine Wood",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service6-progressive.jpg",
+    "link": "/services/pine-wood-floor",
+    "color_css": "bg-orange1"
+  },
+  {
+    "title": "Solid Teak",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service7-progressive.jpg",
+    "link": "/services/solid-teak-flooring",
+    "color_css": "bg-pink1"
+  },
+  {
+    "title": "Solid Kumbuk",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service8-progressive.jpg",
+    "link": "/services/solid-kumbuk-flooring",
+    "color_css": "bg-grey1"
+  },
+  {
+    "title": "Solid Mahogany",
+    "image": "https://res.cloudinary.com/trekkerpoint-com/image/upload/q_auto,fl_progressive/v1621022644/desirefloors/services/service9-progressive.jpg",
+    "link": "/services/solid-mahogany-flooring",
+    "color_css": "bg-aqua1"
+  }
+]
