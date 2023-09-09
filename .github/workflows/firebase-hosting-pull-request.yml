@@ -7,7 +7,7 @@ jobs:
   build_and_preview:
     if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
     runs-on: ubuntu-latest
-    
+
     strategy:
       matrix:
         node-version: [16.20.0]
@@ -15,6 +15,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3      
+        with:
+          node-version: ${{ matrix.node-version }}
       - run: npm ci && npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
